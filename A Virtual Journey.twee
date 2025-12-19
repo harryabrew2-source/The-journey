@@ -1,0 +1,65 @@
+:: StoryTitle
+A Virtual Journey
+
+
+:: StoryData
+{
+  "ifid": "97522AFB-C384-4BA2-B69D-7558E6319B84",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "home",
+  "zoom": 1
+}
+
+
+:: Carry on down the path {"position":"475,275","size":"100,100"}
+You carry on down the dirt path, along your way you spot a large blue warehouse, which seems to be quite out of place in this rural village, would you like to inspect it?
+[[inspect the warehouse]]
+[[move on]]
+
+
+:: Carry on down the road {"position":"600,275","size":"100,100"}
+You carry on down the road, there is a dirt path with a few farmers fields next to it containing horses, lets have a closer look.
+[[Carry on down the path]] 
+
+
+:: Climb tree {"position":"175,200","size":"100,100"}
+
+
+[[Move on]]
+
+
+:: Day {"position":"750,275","size":"100,100"}
+You begin your journey heading east, out of the village. Down the road is the scout hut, cricket pitch and farm.
+[[Carry on down the road]]
+[[Inspect the cricket pitch]]
+
+
+:: Inspect the cricket pitch {"position":"600,400","size":"100,100"}
+Burbage Cricket Club was founded in 1903, the present club is a combination of two old clubs, Easton Royal and Burbage. The Burbage cricket club hosts local league matches, and casual matches. The last league match was against Andover, Burbage won.
+[[Carry on down the road]]
+
+
+:: Move on {"position":"200,350","size":"100,100"}
+
+
+
+:: Night {"position":"1250,275","size":"100,100"}
+
+
+
+:: home {"position":"950,275","size":"100,100"}
+you have just woken up, do you choose to leave now or wait till nightfall?
+[[Night]]
+[[Day]]
+
+
+:: inspect the warehouse {"position":"350,150","size":"100,100"}
+You decide to have a closer look at the warehouse, its purpose is unclear and it has no company names on it. Maybe there are aliens in there?
+[[move on]]
+
+
+:: move on {"position":"350,275","size":"100,100"}
+You make your way through what is usually a corn field, but has no crops in it as it is winter, eventually you make your way to the end of the field into a small woodland area, would you like to climb a tree?
+[[Move on]]
+[[Climb tree]]
